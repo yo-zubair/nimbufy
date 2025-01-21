@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Nimbufy	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/nimbufy/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/nimbufy/</link>
 	<description>Easily clone webpages to WordPress.</description>
 	<lastBuildDate>Tue, 21 Jan 2025 23:00:16 +0000</lastBuildDate>
 	<sy:updatePeriod>

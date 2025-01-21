@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Privacy Policy	</title>
-	<atom:link href="/privacy-policy/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/nimbufy/privacy-policy/feed/" rel="self" type="application/rss+xml" />
+	<link>/nimbufy/</link>
 	<description>Easily clone webpages to WordPress.</description>
 	<lastBuildDate>Tue, 10 Oct 2023 19:10:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
